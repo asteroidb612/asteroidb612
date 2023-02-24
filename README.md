@@ -13,7 +13,7 @@
 - 👷‍♂️ I'm a freelance full-stack web developer
 
 - ⏳ Recently:
-  - Making accessible interfaces to collective intelligence with [Society Library Papers](https://papers.societylibrary.org/papers/diablo_canyon)
+  - Architect and designer of interfaces to collective intelligence with [Society Library Papers](https://papers.societylibrary.org/papers/diablo_canyon)
   - Hackathon Finalist for [explaining quadrattic funding](https://github.com/asteroidb612/visual-funding) through narrative and visuals for [Gitcoin's Passport Hackathon](https://gitcoin.co/issue/28976)
   - 1.5 years at Kitware Inc [(alternate github)](https://github.com/DrewLazzeriKitware?tab=overview&from=2021-12-01&to=2021-12-31) working on [the Trame web framework](https://kitware.github.io/trame/index.html), using simulation to teach AI [(app)](https://sandtank-ml.hydroframe.org/#/) [(paper)](https://repository.arizona.edu/handle/10150/662664), and running a [Web3 Study Group](https://github.com/DrewLazzeriKitware/IsWeb3OpenScienceYet). 
   - 2 years at [interviewing.io](https://interviewing.io/) 
