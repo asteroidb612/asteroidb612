@@ -20,6 +20,7 @@
 - 🔭 I’m currently exploring: 
   - Making acting less scary through the [Open Cue Tool Kit](https://github.com/octk/open-cue-tool-kit).
   - Incentivizing learning through reading groups with [RadicalXChange Denver](https://github.com/RadicalxChangeColorado/incentivized-reading-group)
+  - Declarative full-stack web engineering through [lamdera](https://lamdera.com/) and [arete](https://github.com/asteroidb612/arete).
 - 🎓 I hold a Bachelor's degree, a double major, in Mathematics and Theater Arts from Santa Clara University 
 - 📫 How to reach me: dlazzeri1@gmail.com
 - 😄 Pronouns: He/him
