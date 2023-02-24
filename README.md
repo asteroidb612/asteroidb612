@@ -13,12 +13,12 @@
 - 👷‍♂️ I'm a freelance full-stack web developer
 
 - ⏳ Recently:
+  - Explaining quadrattic funding through narrative and visuals as a [Finalist in Gitcoin's Passport Hackathon](https://github.com/asteroidb612/visual-funding)
   - 1 year making accessible interfaces to collective intelligence with [Society Library Papers](https://papers.societylibrary.org/papers/diablo_canyon)
   - 1.5 years at Kitware Inc (alternate github) working on hydrology simulation, AI in education, and their Web3 Study Group. 
   - 2 years at [interviewing.io](https://interviewing.io/) building 
-- 🔭 I’m currently learning about: 
+- 🔭 I’m currently exploring: 
   - Making acting less scary through the [Open Cue Tool Kit](https://github.com/octk/open-cue-tool-kit).
-  - Explaining quadrattic funding through narrative and visuals as a [Finalist in Gitcoin's Passport Hackathon](https://github.com/asteroidb612/visual-funding)
   - Incentivizing learning through reading groups with [RadicalXChange Denver](https://github.com/RadicalxChangeColorado/incentivized-reading-group)
 - 🎓 I hold a Bachelor's degree, a double major, in Mathematics and Theater Arts from Santa Clara University 
 - 📫 How to reach me: dlazzeri1@gmail.com
