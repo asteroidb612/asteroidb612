@@ -15,7 +15,7 @@
 - ⏳ Recently:
   - Making accessible interfaces to collective intelligence with [Society Library Papers](https://papers.societylibrary.org/papers/diablo_canyon)
   - Hackathon Finalist for [explaining quadrattic funding](https://github.com/asteroidb612/visual-funding) through narrative and visuals for [Gitcoin's Passport Hackathon](https://gitcoin.co/issue/28976)
-  - 1.5 years at Kitware Inc [(alternate github)](https://github.com/DrewLazzeriKitware?tab=overview&from=2021-12-01&to=2021-12-31) working on hydrology simulation, AI in education, and running a [Web3 Study Group](https://github.com/DrewLazzeriKitware/IsWeb3OpenScienceYet). 
+  - 1.5 years at Kitware Inc [(alternate github)](https://github.com/DrewLazzeriKitware?tab=overview&from=2021-12-01&to=2021-12-31) working on [hydrology education](https://sandtank-ml.hydroframe.org/#/), AI in education, and running a [Web3 Study Group](https://github.com/DrewLazzeriKitware/IsWeb3OpenScienceYet). 
   - 2 years at [interviewing.io](https://interviewing.io/) 
 - 🔭 I’m currently exploring: 
   - Making acting less scary through the [Open Cue Tool Kit](https://github.com/octk/open-cue-tool-kit).
